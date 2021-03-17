@@ -1,0 +1,3154 @@
+{
+    "data": [
+        {
+            "title": "Ignas",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 1,
+            "default_status": "draft",
+            "position": "CEO",
+            "photo": "/assets/team/ignas-ceo-1560454092.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.6871555,
+                "longitude": "25.2796514"
+            },
+            "department": [
+                "management"
+            ],
+            "id": "5492560d-bfe6-469c-b56b-f6f3ac5a74a8",
+            "slug": "ignas",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/ignas",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Ilma",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 2,
+            "default_status": "draft",
+            "position": "COO",
+            "photo": "/assets/team/ilma-cmo.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.687157,
+                "longitude": 25.279652
+            },
+            "department": [
+                "management"
+            ],
+            "id": "15de6852-554d-4cac-aae7-d8e728de34db",
+            "slug": "ilma",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/ilma",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Gediminas",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 3,
+            "default_status": "draft",
+            "position": "CPO",
+            "photo": "/assets/team/gediminas_400x400.png",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.687157,
+                "longitude": 25.279652
+            },
+            "department": [
+                "management"
+            ],
+            "id": "9db332c5-42e5-4908-9b8d-0508a37ec2fd",
+            "slug": "gediminas",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/gediminas",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1597760909,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Santa",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 4,
+            "default_status": "draft",
+            "position": "Hiring Manager",
+            "photo": "/assets/team/santa.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.6871555,
+                "longitude": "25.2796514"
+            },
+            "department": [
+                "people-and-culture"
+            ],
+            "id": "981d66ff-1c5c-4020-9d4e-586056802653",
+            "slug": "santa",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/santa",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1602860550,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Marta",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 5,
+            "default_status": "draft",
+            "position": "Legal Lead",
+            "photo": "/assets/team/marta.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.6871555,
+                "longitude": "25.2796514"
+            },
+            "department": [
+                "legal"
+            ],
+            "id": "712614e8-e2b4-4ce4-b2ac-e6cc771d6656",
+            "slug": "marta",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/marta",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1603194339,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Renata",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 6,
+            "default_status": "draft",
+            "position": "Office Manager",
+            "photo": "/assets/team/renata.jpeg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.6871555,
+                "longitude": "25.2796514"
+            },
+            "department": [
+                "people-and-culture"
+            ],
+            "id": "3e62ad1b-efbf-4c46-9a52-fe6cb8f12a12",
+            "slug": "renata",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/renata",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1602860550,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Gabija",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 7,
+            "default_status": "draft",
+            "position": "Deliverability Manager",
+            "photo": "/assets/team/gabija.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.6871555,
+                "longitude": "25.2796514"
+            },
+            "department": [
+                "deliverability"
+            ],
+            "id": "dfc90b66-87fb-4632-ae64-6803b758ec76",
+            "slug": "gabija",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/gabija",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Indre",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 8,
+            "default_status": "draft",
+            "position": "Marketing Manager",
+            "photo": "/assets/team/indre.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.6871555,
+                "longitude": "25.2796514"
+            },
+            "department": [
+                "marketing"
+            ],
+            "id": "9435c229-4a45-4fec-b72d-c39aa2d15226",
+            "slug": "indre",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/indre",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Jonas",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 9,
+            "default_status": "draft",
+            "position": "Content Manager",
+            "photo": "/assets/team/jonassite-1549551015.jpg",
+            "location": {
+                "name": "France",
+                "latitude": "48.856614",
+                "longitude": "2.3522219"
+            },
+            "department": [
+                "marketing"
+            ],
+            "id": "5fabb572-bef5-4506-8c80-acd52be925f2",
+            "slug": "jonas",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/jonas",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Marcin",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 10,
+            "default_status": "draft",
+            "position": "Video and Webinars",
+            "photo": "/assets/team/marcin.jpg",
+            "location": {
+                "name": "Poland",
+                "latitude": 52.2296756,
+                "longitude": "21.0122287"
+            },
+            "department": [
+                "marketing"
+            ],
+            "id": "0927b7c0-ba48-4eef-8153-9257851644e3",
+            "slug": "marcin",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/marcin",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Paulius",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 11,
+            "default_status": "draft",
+            "position": "SEO Manager",
+            "photo": "/assets/team/paulius-p.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.6871555,
+                "longitude": "25.2796514"
+            },
+            "department": [
+                "marketing"
+            ],
+            "id": "11f44de6-c8f4-4699-bebb-887baa73ffad",
+            "slug": "paulius-p",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/paulius-p",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1590733937,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Radvile",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 12,
+            "default_status": "draft",
+            "position": "Digital Advertising Manager",
+            "photo": "/assets/team/radvile-1552633353.jpg",
+            "location": {
+                "name": "Indonesia",
+                "latitude": -8.4095178,
+                "longitude": "115.188916"
+            },
+            "department": [
+                "marketing"
+            ],
+            "id": "71188678-cd89-4117-a419-565a1bb00ebc",
+            "slug": "radvile",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/radvile",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Megan",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 13,
+            "default_status": "draft",
+            "position": "Content Writer",
+            "photo": "/assets/team/img_20190819_013524.jpg",
+            "location": {
+                "name": "Indonesia",
+                "latitude": -8.6478175,
+                "longitude": 115.1385192
+            },
+            "department": [
+                "marketing"
+            ],
+            "id": "84e426d3-1794-4bcb-aaa9-b9e0933810d5",
+            "slug": "megan",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/megan",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Mantas",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 15,
+            "default_status": "draft",
+            "position": "Designer",
+            "photo": "/assets/team/mantas.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.0049069,
+                "longitude": "23.9864279"
+            },
+            "department": [
+                "design"
+            ],
+            "id": "b4a37561-8452-4e32-b861-e176bf21821f",
+            "slug": "mantas",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/mantas",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Anton",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 17,
+            "default_status": "draft",
+            "position": "Designer",
+            "photo": "/assets/team/t029u663e-ujpjmbuhl-e954a7e2d8e6-512.jpeg",
+            "location": {
+                "name": "Latvia",
+                "latitude": 56.9496487,
+                "longitude": "24.1051865"
+            },
+            "department": [
+                "design"
+            ],
+            "id": "1d751446-4f29-4965-b49d-102a98e49f78",
+            "slug": "anton",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/anton",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Amanda",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 19,
+            "default_status": "draft",
+            "position": "Project Manager",
+            "photo": "/assets/team/amanda.jpg",
+            "location": {
+                "name": "USA",
+                "latitude": 43.2994285,
+                "longitude": "-74.2179326"
+            },
+            "department": [
+                "project-management"
+            ],
+            "id": "33739e9f-0aed-4024-974d-38b52e119d28",
+            "slug": "amanda",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/amanda",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Migle",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 20,
+            "default_status": "draft",
+            "position": "Project Manager",
+            "photo": "/assets/team/webp.net-resizeimage-(6).jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.6871555,
+                "longitude": "25.2796514"
+            },
+            "department": [
+                "project-management"
+            ],
+            "id": "5b7541a4-97b9-457c-a821-86abcdf9ce1d",
+            "slug": "migle",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/migle",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Nikola",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 21,
+            "default_status": "draft",
+            "position": "DevOps",
+            "photo": "/assets/team/nikola-1553591668.jpg",
+            "location": {
+                "name": "Serbia",
+                "latitude": 44.786568,
+                "longitude": "20.4489216"
+            },
+            "department": [
+                "devops"
+            ],
+            "id": "6432a0cb-624a-46d2-8792-1b25d65dfa07",
+            "slug": "nikola",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/nikola",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Tadas",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 22,
+            "default_status": "draft",
+            "position": "Developer",
+            "photo": "/assets/team/tadas.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.6871555,
+                "longitude": "25.2796514"
+            },
+            "department": [
+                "development"
+            ],
+            "id": "1f0280c2-d6c1-4606-adc6-968e087d907c",
+            "slug": "tadas",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/tadas",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Darius",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 24,
+            "default_status": "draft",
+            "position": "Developer",
+            "photo": "/assets/team/darius.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.6871555,
+                "longitude": "25.2796514"
+            },
+            "department": [
+                "development"
+            ],
+            "id": "362cee17-2451-47e2-9f9c-d235227cbd1a",
+            "slug": "darius",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/darius",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Pranciskus",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 25,
+            "default_status": "draft",
+            "position": "Developer",
+            "photo": "/assets/team/pranciskus2.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.6871555,
+                "longitude": "25.2796514"
+            },
+            "department": [
+                "development"
+            ],
+            "id": "57488717-52bb-47db-81b8-390890513b92",
+            "slug": "pranciskus",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/pranciskus",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Remigijus",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 26,
+            "default_status": "draft",
+            "position": "Developer",
+            "photo": "/assets/team/remigijus-1566804567.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.6871555,
+                "longitude": "25.2796514"
+            },
+            "department": [
+                "development"
+            ],
+            "id": "c625f3d3-2ac3-4287-b100-f0e359a597bf",
+            "slug": "remigijus",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/remigijus",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Nikol",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 27,
+            "default_status": "draft",
+            "position": "Developer",
+            "photo": "/assets/team/nikol-1540621419.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.6871555,
+                "longitude": "25.2796514"
+            },
+            "department": [
+                "development"
+            ],
+            "id": "87b8ae53-bd77-4098-866e-ce7a2758f544",
+            "slug": "nikol",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/nikol",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Dominykas",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 29,
+            "default_status": "draft",
+            "position": "Developer",
+            "photo": "/assets/team/dominykas.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": "55.7032948",
+                "longitude": "21.1442795"
+            },
+            "department": [
+                "development"
+            ],
+            "id": "14a234d5-dbdb-48a2-94d1-90f9dfe0cdcc",
+            "slug": "dominykas",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/dominykas",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Adam",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 31,
+            "default_status": "draft",
+            "position": "iOS Developer",
+            "photo": "/assets/team/adam.jpg",
+            "location": {
+                "name": "Czechia",
+                "latitude": 49.677631,
+                "longitude": "18.6707901"
+            },
+            "department": [
+                "development"
+            ],
+            "id": "47dbfd79-c22c-4e88-ba89-5c5eb6b3a627",
+            "slug": "adam",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/adam",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Karina",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 32,
+            "default_status": "draft",
+            "position": "People & Culture Lead",
+            "photo": "/assets/team/karina.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.6871555,
+                "longitude": "25.2796514"
+            },
+            "department": [
+                "people-and-culture"
+            ],
+            "id": "445fe2c6-bc6c-459f-839f-eb1c21a2539c",
+            "slug": "karina",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/karina",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1602860550,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Remis",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 33,
+            "default_status": "draft",
+            "position": "Customer Support Lead",
+            "photo": "/assets/team/remigijus.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.6871555,
+                "longitude": "25.2796514"
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "471c8d38-aaf0-4b01-b1a3-e462ce50fa27",
+            "slug": "remis",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/remis",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Andrej",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 34,
+            "default_status": "draft",
+            "position": "Technical Support Lead",
+            "photo": "/assets/team/andrej.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.6871555,
+                "longitude": "25.2796514"
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "4887622c-bca1-4636-a891-cfcc0a2cfb7f",
+            "slug": "andrej",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/andrej",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Justas",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 35,
+            "default_status": "draft",
+            "position": "Technical Support",
+            "photo": "/assets/team/justas-1564989885.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.6871555,
+                "longitude": "25.2796514"
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "c37a4f94-d068-44b5-b6d1-6387c3ca77b6",
+            "slug": "justas",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/justas",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Silvestras",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 36,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/silvestras.jpg",
+            "location": {
+                "name": "Thailand",
+                "latitude": 13.7563309,
+                "longitude": "100.5017651"
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "84cb9484-d8bf-4635-93f5-4e92f496ac53",
+            "slug": "silvestras",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/silvestras",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Andrii",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 37,
+            "default_status": "draft",
+            "position": "Deliverability Manager",
+            "photo": "/assets/team/andrew.jpg",
+            "location": {
+                "name": "Ukraine",
+                "latitude": "49.839683",
+                "longitude": "24.029717"
+            },
+            "department": [
+                "deliverability"
+            ],
+            "id": "ebc4ff3f-f47e-4d77-9a8d-648303805cf4",
+            "slug": "andrii",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/andrii",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Martyna",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 38,
+            "default_status": "draft",
+            "position": "Partnership Manager",
+            "photo": "/assets/team/martyna-1564989833.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.6871555,
+                "longitude": "25.2796514"
+            },
+            "department": [
+                "marketing"
+            ],
+            "id": "04218752-8cdf-4870-aafe-3d96049d5674",
+            "slug": "martyna",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/martyna",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Milda",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 39,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/milda-1535999963.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.6871555,
+                "longitude": "25.2796514"
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "14b209dd-576c-4a96-ab6a-5af105356f2c",
+            "slug": "milda",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/milda",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Jessika",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 40,
+            "default_status": "draft",
+            "position": "Partnership Manager",
+            "photo": "/assets/team/jessica.jpg",
+            "location": {
+                "name": "Germany",
+                "latitude": 51.517744,
+                "longitude": "7.0857172"
+            },
+            "department": [
+                "marketing"
+            ],
+            "id": "1dfe2e2a-5ade-48c6-a317-9d5bcacd3c83",
+            "slug": "jessika",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/jessika",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Deividas",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 41,
+            "default_status": "draft",
+            "position": "Data Scientist",
+            "photo": "/assets/team/deividas_slivinskas.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.6871555,
+                "longitude": "25.2796514"
+            },
+            "department": [
+                "marketing"
+            ],
+            "id": "3c6d6c00-e976-4fdb-a1ed-cd2c85564455",
+            "slug": "deividas",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/deividas",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Vladimir",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 42,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/vladimir.png",
+            "location": {
+                "name": "Estonia",
+                "latitude": "59.4369608",
+                "longitude": "24.7535747"
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "ea23717a-e314-444b-b56c-dfa81477dcc9",
+            "slug": "vladimir",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/vladimir",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Maria",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 43,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/maria.jpg",
+            "location": {
+                "name": "United Kingdom",
+                "latitude": 51.5073509,
+                "longitude": "-0.12775829999998"
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "d5b64220-962e-4e2c-a2f6-87c610b8ce68",
+            "slug": "maria",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/maria",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Paola",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 44,
+            "default_status": "draft",
+            "position": "Content Marketing",
+            "photo": "/assets/team/paola.jpg",
+            "location": {
+                "name": "USA",
+                "latitude": "37.7272727",
+                "longitude": "-89.2167501"
+            },
+            "department": [
+                "marketing"
+            ],
+            "id": "4f11805e-44f9-4ff7-87e5-d647fcb820dd",
+            "slug": "paola",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/paola",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Erin",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 45,
+            "default_status": "draft",
+            "position": "Content Writer",
+            "photo": "/assets/team/erin.jpg",
+            "location": {
+                "name": "Australia",
+                "latitude": -33.8688197,
+                "longitude": 151.2092955
+            },
+            "department": [
+                "marketing"
+            ],
+            "id": "9beedea4-8ae9-460c-96d2-734070bfa3d5",
+            "slug": "erin",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/erin",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1597401709,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Fawzia",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 46,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/fawzia.jpg",
+            "location": {
+                "name": "Canada",
+                "latitude": "45.3088185",
+                "longitude": -75.8986835
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "025aae48-4146-4578-9092-be2e4bb4707f",
+            "slug": "fawzia",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/fawzia",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Nicole",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 47,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/nicole_pyzyk-1566475511.png",
+            "location": {
+                "name": "Spain",
+                "latitude": 36.721261,
+                "longitude": "-4.4212655"
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "995c53a4-923d-4433-a9e1-b3df83952853",
+            "slug": "nicole",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/nicole",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Dino",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 48,
+            "default_status": "draft",
+            "position": "DevOps",
+            "photo": "/assets/team/dino.jpg",
+            "location": {
+                "name": "Croatia",
+                "latitude": 45.5549624,
+                "longitude": "18.6955144"
+            },
+            "department": [
+                "devops"
+            ],
+            "id": "810345b9-6ad0-49d0-86a3-5ad2744c1853",
+            "slug": "dino",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/dino",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Mantas",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 49,
+            "default_status": "draft",
+            "position": "Developer",
+            "photo": "/assets/team/mantasa.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 54.6871555,
+                "longitude": "25.2796514"
+            },
+            "department": [
+                "development"
+            ],
+            "id": "f21e1c4d-3ce3-4bf6-adde-601bc433284c",
+            "slug": "mantas-a",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/mantas-a",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Dainius",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 50,
+            "default_status": "draft",
+            "position": "Developer",
+            "photo": "/assets/team/dainius.jpg",
+            "location": {
+                "name": "United Kingdom",
+                "latitude": 51.895927,
+                "longitude": "0.89187400000003"
+            },
+            "department": [
+                "development"
+            ],
+            "id": "06aa41e4-20e9-4512-a78e-98adf1bfaee9",
+            "slug": "dainius",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/dainius",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Sthefani",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 51,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/sthefani.jpg",
+            "location": {
+                "name": "Guatemala",
+                "latitude": 15.783471,
+                "longitude": "-90.230759"
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "9242a68e-5032-4b49-bb23-79a032ff0358",
+            "slug": "sthefani",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/sthefani",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1578669621,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Laura",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 52,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/laura.jpg",
+            "location": {
+                "name": "Portugal",
+                "latitude": "39.399872",
+                "longitude": "-8.224454"
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "22a99218-459c-45a5-8306-e6698b325557",
+            "slug": "laura",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/laura",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1578669621,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Ericka",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 53,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/ericka.jpg",
+            "location": {
+                "name": "Honduras",
+                "latitude": 15.199999,
+                "longitude": "-86.241905"
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "73d26ac0-201b-4aad-a7ca-2565658cf568",
+            "slug": "ericka",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/ericka",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1578669621,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Veronika",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 54,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/veronika.jpg",
+            "location": {
+                "name": "United Kingdom",
+                "latitude": 51.5073509,
+                "longitude": "-0.12775829999998"
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "96e1b666-6a6e-4ddd-849f-36e6866a80ca",
+            "slug": "veronika",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/veronika",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Nenad",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 55,
+            "default_status": "draft",
+            "position": "Developer",
+            "photo": "/assets/team/nenad.jpg",
+            "location": {
+                "name": "Serbia",
+                "latitude": 45.2671352,
+                "longitude": "19.8335496"
+            },
+            "department": [
+                "development"
+            ],
+            "id": "744e383c-35b1-4942-9313-ee4a6adad879",
+            "slug": "nenad",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/nenad",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Julius",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 56,
+            "default_status": "draft",
+            "position": "Developer",
+            "photo": "/assets/team/julius.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": "55.7032948",
+                "longitude": "21.1442795"
+            },
+            "department": [
+                "development"
+            ],
+            "id": "30597f95-8105-45d0-9be9-2bfb978f4e56",
+            "slug": "julius",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/julius",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Maria",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 57,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/maria_renielda_l_lagman.jpg",
+            "location": {
+                "name": "Philippines",
+                "latitude": 12.879721,
+                "longitude": "121.774017"
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "7ffd9c13-82ab-45aa-884f-5f675c9dd40b",
+            "slug": "maria-renielda",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/maria-renielda",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1578669621,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Lana",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 58,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/lana_abdallah.jpg",
+            "location": {
+                "name": "Jordan",
+                "latitude": "30.585164",
+                "longitude": "36.238414"
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "bdf1ea23-2663-48b0-9c9e-29a34bcab8a6",
+            "slug": "lana",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/lana",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1578669621,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Rimante",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 59,
+            "default_status": "draft",
+            "position": "Technical Support",
+            "photo": "/assets/team/rimante_kaktyte.jpg",
+            "location": {
+                "name": "Spain",
+                "latitude": "40.463667",
+                "longitude": "-3.74922"
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "57bfc010-83b3-43f6-9b45-dc707c0be00b",
+            "slug": "rimante",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/rimante",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1601295492,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Vaida",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 60,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/vaida-gailiute.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 55.169438,
+                "longitude": "23.881275"
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "a75d6710-5493-49a2-a8f2-34118b843069",
+            "slug": "vaida",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/vaida",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1578669621,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Obdulio",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 61,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/obdulio_bohorquez.jpg",
+            "location": {
+                "name": "Honduras",
+                "latitude": 15.199999,
+                "longitude": "-86.241905"
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "b7fbf6ff-f066-44c1-93b5-a83f4f9b854c",
+            "slug": "obdulio",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/obdulio",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1578669621,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Fernando",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 63,
+            "default_status": "draft",
+            "position": "Developer",
+            "photo": "/assets/team/fernando-emmanoel-borba.jpg",
+            "location": {
+                "name": "Brazil",
+                "latitude": -14.235004,
+                "longitude": -51.92528
+            },
+            "department": [
+                "development"
+            ],
+            "id": "cd23fc65-0a86-4c4f-a11e-7538f1d66cb5",
+            "slug": "fernando",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/fernando",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1579699274,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Vanessa",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 66,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/vanessa.png",
+            "location": {
+                "name": "USA",
+                "latitude": 37.09024,
+                "longitude": -95.712891
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "e2dc4a64-7bb2-4229-a70f-7083dd1c9b79",
+            "slug": "vanessa",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/vanessa",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Paolo",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 67,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/paolo.png",
+            "location": {
+                "name": "Honduras",
+                "latitude": 15.199999,
+                "longitude": -86.241905
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "17e1171a-587f-45fb-9839-597550605dc6",
+            "slug": "paolo",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/paolo",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1582639338,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Rachel",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 68,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/rachel_guidery.jpg",
+            "location": {
+                "name": "Spain",
+                "latitude": "40.463667",
+                "longitude": -3.74922
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "84e8e93e-1bbd-4418-9627-0d6f5c4a1de8",
+            "slug": "rachel",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/rachel",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1584953521,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Emma",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 69,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/emma_crawford.jpg",
+            "location": {
+                "name": "United Kingdom",
+                "latitude": 55.378051,
+                "longitude": -3.435973
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "fd38c058-d496-4e22-a1e4-40d0a1a6732f",
+            "slug": "emma",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/emma",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1584953521,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Rūta",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 70,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/ruta_kiaupaite.jpg",
+            "location": {
+                "name": "United Kingdom",
+                "latitude": 55.378051,
+                "longitude": -3.435973
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "8d955441-5850-4823-9a1c-12aae6b5a29b",
+            "slug": "ruta",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/ruta",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1584953521,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Alberto",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 71,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/alberto_gutierrez_alonso.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 55.169438,
+                "longitude": 23.881275
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "f1f66360-21b4-45e6-a2f9-6ba573b5ffcf",
+            "slug": "alberto",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/alberto",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1584953521,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Tautvydas",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 74,
+            "default_status": "draft",
+            "position": "Designer",
+            "photo": "/assets/team/tautvydas_zidonis.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 55.169438,
+                "longitude": 23.881275
+            },
+            "department": [
+                "design"
+            ],
+            "id": "e16ca7d0-e136-4e7b-9d8d-6bd216df68c9",
+            "slug": "tautvydas-z",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/tautvydas-z",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1584953521,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Giannis",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 75,
+            "default_status": "draft",
+            "position": "Developer",
+            "photo": "/assets/team/giannis.png",
+            "location": {
+                "name": "Greece",
+                "latitude": "39.074208",
+                "longitude": 21.824312
+            },
+            "department": [
+                "development"
+            ],
+            "id": "e1833e8e-ab7c-491b-9cc1-880502d6e26f",
+            "slug": "giannis",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/giannis",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Mindaugas",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 78,
+            "default_status": "draft",
+            "position": "Developer",
+            "photo": "/assets/team/mindaugas.png",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 55.169438,
+                "longitude": 23.881275
+            },
+            "department": [
+                "development"
+            ],
+            "id": "b346fa82-0bbb-4c82-b1b1-84a1192b6bac",
+            "slug": "mindaugas",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/mindaugas",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Magdalena",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 79,
+            "default_status": "draft",
+            "position": "Deliverability Manager",
+            "photo": "/assets/team/magdalena.jpg",
+            "location": {
+                "name": "Netherlands",
+                "latitude": "52.132633",
+                "longitude": 5.291266
+            },
+            "department": [
+                "deliverability"
+            ],
+            "id": "f3c7d583-712b-4f4a-a3e0-fe703c57135e",
+            "slug": "magdalena",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/magdalena",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Aleksandar",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 80,
+            "default_status": "draft",
+            "position": "Developer",
+            "photo": "/assets/team/aleksandar.png",
+            "location": {
+                "name": "Serbia",
+                "latitude": 44.016521,
+                "longitude": 21.005859
+            },
+            "department": [
+                "development"
+            ],
+            "id": "940c3546-f031-46fb-b058-e6718a9dad15",
+            "slug": "aleksandar",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/aleksandar",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1588860445,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Izabella",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 81,
+            "default_status": "draft",
+            "position": "Hiring Manager",
+            "photo": "/assets/team/izabella.jpg",
+            "location": {
+                "name": "Mexico",
+                "latitude": 23.634501,
+                "longitude": -102.552784
+            },
+            "department": [
+                "people-and-culture"
+            ],
+            "id": "aeb772e8-808c-469a-b5d7-563c3de03a2b",
+            "slug": "izabella",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/izabella",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1602860550,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Cesar",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 85,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/cesar_carreras.jpg",
+            "location": {
+                "name": "Mexico",
+                "latitude": 23.634501,
+                "longitude": -102.552784
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "2d64bc18-61c2-4ccc-ac53-50d14e795b1d",
+            "slug": "cesar",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/cesar",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1592307614,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Panagiotis",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 86,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/panagiotis.jpg",
+            "location": {
+                "name": "Honduras",
+                "latitude": 15.199999,
+                "longitude": -86.241905
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "21be137d-d088-4ec1-bdaf-b66b3cdc0a7a",
+            "slug": "panagiotis",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/panagiotis",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1592307614,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Brigita",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 87,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/brigita.jpg",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 55.169438,
+                "longitude": 23.881275
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "369b0771-08e8-4ac8-ac25-de9b07861d59",
+            "slug": "brigita",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/brigita",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1592307614,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Jose",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 88,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/jose-navarro.png",
+            "location": {
+                "name": "Honduras",
+                "latitude": 15.199999,
+                "longitude": -86.241905
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "6dbde9f8-90a8-4e7a-8a8a-b737a6089ece",
+            "slug": "jose",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/jose",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1592307614,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Martynas",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 89,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/martynas-1592223330.jpg",
+            "location": {
+                "name": "Spain",
+                "latitude": "40.463667",
+                "longitude": -3.74922
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "0b690de6-a8fa-4a52-ad97-91d052426223",
+            "slug": "martynas",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/martynas",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1592307614,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Vlad",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 90,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/vlad-1592223530.png",
+            "location": {
+                "name": "Romania",
+                "latitude": 45.943161,
+                "longitude": 24.96676
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "1559c39a-2658-4b70-abe3-fee8ae403047",
+            "slug": "vlad",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/vlad",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1592307614,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Joseph",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 91,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/joseph.png",
+            "location": {
+                "name": "Philippines",
+                "latitude": 12.879721,
+                "longitude": 121.774017
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "69ae7b5e-87d3-4640-b771-512359f99e27",
+            "slug": "joseph",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/joseph",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1592307614,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Dmitry",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 92,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/dmitry.jpg",
+            "location": {
+                "name": "Estonia",
+                "latitude": 58.595272,
+                "longitude": 25.0136071
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "d9574721-6526-46ea-922a-e11e29302971",
+            "slug": "dmitry",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/dmitry",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1592307614,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Alexandros",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 93,
+            "default_status": "draft",
+            "position": "DevOps",
+            "photo": "/assets/team/alexandros.png",
+            "location": {
+                "name": "Greece",
+                "latitude": "39.074208",
+                "longitude": 21.824312
+            },
+            "department": [
+                "devops"
+            ],
+            "id": "d016ff06-70fb-4153-871f-6586a542a5fb",
+            "slug": "alexandros",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/alexandros",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1592307614,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Sean",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 94,
+            "default_status": "draft",
+            "position": "Performance Copywriter",
+            "photo": "/assets/team/sean.png",
+            "location": {
+                "name": "Singapore",
+                "latitude": 1.352083,
+                "longitude": 103.819836
+            },
+            "department": [
+                "marketing"
+            ],
+            "id": "10f2af8e-2463-4e0d-8216-a1ea077290a6",
+            "slug": "sean",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/sean",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1592307614,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Ernesta",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 96,
+            "default_status": "draft",
+            "position": "Legal Counsel",
+            "photo": "/assets/team/ernesta-1592224514.png",
+            "location": {
+                "name": "Lithuania",
+                "latitude": 55.169438,
+                "longitude": 23.881275
+            },
+            "department": [
+                "legal"
+            ],
+            "id": "a4338bb2-dd0f-4f11-88ef-53f9ff852e4c",
+            "slug": "ernesta",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/ernesta",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1603194374,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Ashley",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 97,
+            "default_status": "draft",
+            "position": "Video Editor",
+            "photo": "/assets/team/ashley.png",
+            "location": {
+                "name": "Ireland",
+                "latitude": 53.41291,
+                "longitude": -8.24389
+            },
+            "department": [
+                "marketing"
+            ],
+            "id": "5b4b474b-0f02-4f00-afcd-d78772c29c0b",
+            "slug": "ashley",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/ashley",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1598285340,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Megan",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 98,
+            "default_status": "draft",
+            "position": "Content Writer",
+            "photo": "/assets/team/megan-bouton.jpg",
+            "location": {
+                "name": "France",
+                "latitude": 46.227638,
+                "longitude": 2.213749
+            },
+            "department": [
+                "marketing"
+            ],
+            "id": "3f7de2e6-0ad8-41e8-b7e2-aee497997ffa",
+            "slug": "megan-bouton",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/megan-bouton",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1598285340,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Robert",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 99,
+            "default_status": "draft",
+            "position": "DevOps",
+            "photo": "/assets/team/robert-gordon.png",
+            "location": {
+                "name": "United Kingdom",
+                "latitude": 55.378051,
+                "longitude": -3.435973
+            },
+            "department": [
+                "devops"
+            ],
+            "id": "fd818857-e4a1-4b5c-8f67-69f2919cf5df",
+            "slug": "robert",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/robert",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1602860550,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Ekaterina",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 101,
+            "default_status": "draft",
+            "position": "Quality Assurance Engineer",
+            "photo": "/assets/team/ekaterina.jpg",
+            "location": {
+                "name": "Bulgaria",
+                "latitude": 42.733883,
+                "longitude": 25.48583
+            },
+            "department": [
+                "development"
+            ],
+            "id": "d3eebe14-92a9-44a1-8ee7-891dfe075052",
+            "slug": "ekaterina",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/ekaterina",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1602860550,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Norbert",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 102,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/norbert-kovacs.jpeg",
+            "location": {
+                "name": "United Kingdom",
+                "latitude": 55.378051,
+                "longitude": -3.435973
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "424fda58-2964-46e2-83d6-28c796fc4ac2",
+            "slug": "norbert",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/norbert",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1602860550,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Franco",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 103,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/franco.png",
+            "location": {
+                "name": "Argentina",
+                "latitude": -38.416097,
+                "longitude": "-63.616672"
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "c28278df-7e48-45c4-9d6e-51e555f3113e",
+            "slug": "franco",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/franco",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1602860550,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Harmony",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 104,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/harmony.png",
+            "location": {
+                "name": "New Zealand",
+                "latitude": -40.900557,
+                "longitude": 174.885971
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "d5920712-7b62-4a6a-bc03-074b6f2fa864",
+            "slug": "harmony",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/harmony",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1602860550,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Ayanda",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 105,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/ayanda.png",
+            "location": {
+                "name": "South Africa",
+                "latitude": -30.559482,
+                "longitude": 22.937506
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "45191f2b-1986-4cac-8a04-d466be53866a",
+            "slug": "ayanda",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/ayanda",
+            "published": false,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1609840343,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Rodrigo",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 106,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/rodrigo.jpg",
+            "location": {
+                "name": "Brazil",
+                "latitude": -14.235004,
+                "longitude": -51.92528
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "dd048fca-d952-4525-89af-de0b626026b3",
+            "slug": "rodrigo",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/rodrigo",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1602860550,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "Claudia",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 107,
+            "default_status": "draft",
+            "position": "Customer Support",
+            "photo": "/assets/team/claudia.png",
+            "location": {
+                "name": "Mexico",
+                "latitude": 23.634501,
+                "longitude": -102.552784
+            },
+            "department": [
+                "customer-support"
+            ],
+            "id": "c8b167cf-a400-4940-ba50-fa5e9320c2b6",
+            "slug": "claudia",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/claudia",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1602860550,
+            "content": null,
+            "content_raw": null
+        },
+        {
+            "title": "John",
+            "fieldset": "team",
+            "columns": [
+                "title",
+                "slug",
+                "department"
+            ],
+            "order": 108,
+            "default_status": "draft",
+            "position": "Developer",
+            "photo": "/assets/team/john.png",
+            "location": {
+                "name": "Greece",
+                "latitude": 39.074208,
+                "longitude": 21.824312
+            },
+            "department": [
+                "development"
+            ],
+            "id": "87183e5b-d39c-4280-80b3-b8a8301282e8",
+            "slug": "john",
+            "url": "/",
+            "uri": false,
+            "url_path": false,
+            "permalink": "https://www.mailerlite.com/",
+            "edit_url": "https://www.mailerlite.com/cp/collections/entries/team/john",
+            "published": true,
+            "order_type": "number",
+            "collection": "team",
+            "is_entry": true,
+            "last_modified": 1602860550,
+            "content": null,
+            "content_raw": null
+        }
+    ]
+}
