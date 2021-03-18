@@ -15,7 +15,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.6871555,
-                "longitude": "25.2796514"
+                "longitude": 25.2796514
             },
             "department": [
                 "management"
@@ -120,7 +120,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.6871555,
-                "longitude": "25.2796514"
+                "longitude": 25.2796514
             },
             "department": [
                 "people-and-culture"
@@ -155,7 +155,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.6871555,
-                "longitude": "25.2796514"
+                "longitude": 25.2796514
             },
             "department": [
                 "legal"
@@ -190,7 +190,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.6871555,
-                "longitude": "25.2796514"
+                "longitude": 25.2796514
             },
             "department": [
                 "people-and-culture"
@@ -225,7 +225,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.6871555,
-                "longitude": "25.2796514"
+                "longitude": 25.2796514
             },
             "department": [
                 "deliverability"
@@ -260,7 +260,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.6871555,
-                "longitude": "25.2796514"
+                "longitude": 25.2796514
             },
             "department": [
                 "marketing"
@@ -294,8 +294,8 @@
             "photo": "/assets/team/jonassite-1549551015.jpg",
             "location": {
                 "name": "France",
-                "latitude": "48.856614",
-                "longitude": "2.3522219"
+                "latitude": 48.856614,
+                "longitude": 2.3522219
             },
             "department": [
                 "marketing"
@@ -330,7 +330,7 @@
             "location": {
                 "name": "Poland",
                 "latitude": 52.2296756,
-                "longitude": "21.0122287"
+                "longitude": 21.0122287
             },
             "department": [
                 "marketing"
@@ -365,7 +365,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.6871555,
-                "longitude": "25.2796514"
+                "longitude": 25.2796514
             },
             "department": [
                 "marketing"
@@ -400,7 +400,7 @@
             "location": {
                 "name": "Indonesia",
                 "latitude": -8.4095178,
-                "longitude": "115.188916"
+                "longitude": 115.188916
             },
             "department": [
                 "marketing"
@@ -470,7 +470,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.0049069,
-                "longitude": "23.9864279"
+                "longitude": 23.9864279
             },
             "department": [
                 "design"
@@ -505,7 +505,7 @@
             "location": {
                 "name": "Latvia",
                 "latitude": 56.9496487,
-                "longitude": "24.1051865"
+                "longitude": 24.1051865
             },
             "department": [
                 "design"
@@ -540,7 +540,7 @@
             "location": {
                 "name": "USA",
                 "latitude": 43.2994285,
-                "longitude": "-74.2179326"
+                "longitude": -74.2179326
             },
             "department": [
                 "project-management"
@@ -575,7 +575,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.6871555,
-                "longitude": "25.2796514"
+                "longitude": 25.2796514
             },
             "department": [
                 "project-management"
@@ -610,7 +610,7 @@
             "location": {
                 "name": "Serbia",
                 "latitude": 44.786568,
-                "longitude": "20.4489216"
+                "longitude": 20.4489216
             },
             "department": [
                 "devops"
@@ -645,7 +645,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.6871555,
-                "longitude": "25.2796514"
+                "longitude": 25.2796514
             },
             "department": [
                 "development"
@@ -680,7 +680,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.6871555,
-                "longitude": "25.2796514"
+                "longitude": 25.2796514
             },
             "department": [
                 "development"
@@ -715,7 +715,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.6871555,
-                "longitude": "25.2796514"
+                "longitude": 25.2796514
             },
             "department": [
                 "development"
@@ -750,7 +750,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.6871555,
-                "longitude": "25.2796514"
+                "longitude": 25.2796514
             },
             "department": [
                 "development"
@@ -785,7 +785,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.6871555,
-                "longitude": "25.2796514"
+                "longitude": 25.2796514
             },
             "department": [
                 "development"
@@ -819,8 +819,8 @@
             "photo": "/assets/team/dominykas.jpg",
             "location": {
                 "name": "Lithuania",
-                "latitude": "55.7032948",
-                "longitude": "21.1442795"
+                "latitude": 55.7032948,
+                "longitude": 21.1442795
             },
             "department": [
                 "development"
@@ -855,7 +855,7 @@
             "location": {
                 "name": "Czechia",
                 "latitude": 49.677631,
-                "longitude": "18.6707901"
+                "longitude": 18.6707901
             },
             "department": [
                 "development"
@@ -890,7 +890,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.6871555,
-                "longitude": "25.2796514"
+                "longitude": 25.2796514
             },
             "department": [
                 "people-and-culture"
@@ -925,7 +925,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.6871555,
-                "longitude": "25.2796514"
+                "longitude": 25.2796514
             },
             "department": [
                 "customer-support"
@@ -960,7 +960,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.6871555,
-                "longitude": "25.2796514"
+                "longitude": 25.2796514
             },
             "department": [
                 "customer-support"
@@ -995,7 +995,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.6871555,
-                "longitude": "25.2796514"
+                "longitude": 25.2796514
             },
             "department": [
                 "customer-support"
@@ -1030,7 +1030,7 @@
             "location": {
                 "name": "Thailand",
                 "latitude": 13.7563309,
-                "longitude": "100.5017651"
+                "longitude": 100.5017651
             },
             "department": [
                 "customer-support"
@@ -1064,8 +1064,8 @@
             "photo": "/assets/team/andrew.jpg",
             "location": {
                 "name": "Ukraine",
-                "latitude": "49.839683",
-                "longitude": "24.029717"
+                "latitude": 49.839683,
+                "longitude": 24.029717
             },
             "department": [
                 "deliverability"
@@ -1100,7 +1100,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.6871555,
-                "longitude": "25.2796514"
+                "longitude": 25.2796514
             },
             "department": [
                 "marketing"
@@ -1135,7 +1135,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.6871555,
-                "longitude": "25.2796514"
+                "longitude": 25.2796514
             },
             "department": [
                 "customer-support"
@@ -1170,7 +1170,7 @@
             "location": {
                 "name": "Germany",
                 "latitude": 51.517744,
-                "longitude": "7.0857172"
+                "longitude": 7.0857172
             },
             "department": [
                 "marketing"
@@ -1205,7 +1205,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.6871555,
-                "longitude": "25.2796514"
+                "longitude": 25.2796514
             },
             "department": [
                 "marketing"
@@ -1239,8 +1239,8 @@
             "photo": "/assets/team/vladimir.png",
             "location": {
                 "name": "Estonia",
-                "latitude": "59.4369608",
-                "longitude": "24.7535747"
+                "latitude": 59.4369608,
+                "longitude": 24.7535747
             },
             "department": [
                 "customer-support"
@@ -1275,7 +1275,7 @@
             "location": {
                 "name": "United Kingdom",
                 "latitude": 51.5073509,
-                "longitude": "-0.12775829999998"
+                "longitude": -0.12775829999998
             },
             "department": [
                 "customer-support"
@@ -1309,8 +1309,8 @@
             "photo": "/assets/team/paola.jpg",
             "location": {
                 "name": "USA",
-                "latitude": "37.7272727",
-                "longitude": "-89.2167501"
+                "latitude": 37.7272727,
+                "longitude": -89.2167501
             },
             "department": [
                 "marketing"
@@ -1379,7 +1379,7 @@
             "photo": "/assets/team/fawzia.jpg",
             "location": {
                 "name": "Canada",
-                "latitude": "45.3088185",
+                "latitude": 45.3088185,
                 "longitude": -75.8986835
             },
             "department": [
@@ -1415,7 +1415,7 @@
             "location": {
                 "name": "Spain",
                 "latitude": 36.721261,
-                "longitude": "-4.4212655"
+                "longitude": -4.4212655
             },
             "department": [
                 "customer-support"
@@ -1450,7 +1450,7 @@
             "location": {
                 "name": "Croatia",
                 "latitude": 45.5549624,
-                "longitude": "18.6955144"
+                "longitude": 18.6955144
             },
             "department": [
                 "devops"
@@ -1485,7 +1485,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 54.6871555,
-                "longitude": "25.2796514"
+                "longitude": 25.2796514
             },
             "department": [
                 "development"
@@ -1520,7 +1520,7 @@
             "location": {
                 "name": "United Kingdom",
                 "latitude": 51.895927,
-                "longitude": "0.89187400000003"
+                "longitude": 0.89187400000003
             },
             "department": [
                 "development"
@@ -1555,7 +1555,7 @@
             "location": {
                 "name": "Guatemala",
                 "latitude": 15.783471,
-                "longitude": "-90.230759"
+                "longitude": -90.230759
             },
             "department": [
                 "customer-support"
@@ -1589,8 +1589,8 @@
             "photo": "/assets/team/laura.jpg",
             "location": {
                 "name": "Portugal",
-                "latitude": "39.399872",
-                "longitude": "-8.224454"
+                "latitude": 39.399872,
+                "longitude": -8.224454
             },
             "department": [
                 "customer-support"
@@ -1625,7 +1625,7 @@
             "location": {
                 "name": "Honduras",
                 "latitude": 15.199999,
-                "longitude": "-86.241905"
+                "longitude": -86.241905
             },
             "department": [
                 "customer-support"
@@ -1660,7 +1660,7 @@
             "location": {
                 "name": "United Kingdom",
                 "latitude": 51.5073509,
-                "longitude": "-0.12775829999998"
+                "longitude": -0.12775829999998
             },
             "department": [
                 "customer-support"
@@ -1695,7 +1695,7 @@
             "location": {
                 "name": "Serbia",
                 "latitude": 45.2671352,
-                "longitude": "19.8335496"
+                "longitude": 19.8335496
             },
             "department": [
                 "development"
@@ -1729,8 +1729,8 @@
             "photo": "/assets/team/julius.jpg",
             "location": {
                 "name": "Lithuania",
-                "latitude": "55.7032948",
-                "longitude": "21.1442795"
+                "latitude": 55.7032948,
+                "longitude": 21.1442795
             },
             "department": [
                 "development"
@@ -1765,7 +1765,7 @@
             "location": {
                 "name": "Philippines",
                 "latitude": 12.879721,
-                "longitude": "121.774017"
+                "longitude": 121.774017
             },
             "department": [
                 "customer-support"
@@ -1799,8 +1799,8 @@
             "photo": "/assets/team/lana_abdallah.jpg",
             "location": {
                 "name": "Jordan",
-                "latitude": "30.585164",
-                "longitude": "36.238414"
+                "latitude": 30.585164,
+                "longitude": 36.238414
             },
             "department": [
                 "customer-support"
@@ -1834,8 +1834,8 @@
             "photo": "/assets/team/rimante_kaktyte.jpg",
             "location": {
                 "name": "Spain",
-                "latitude": "40.463667",
-                "longitude": "-3.74922"
+                "latitude": 40.463667,
+                "longitude": -3.74922
             },
             "department": [
                 "customer-support"
@@ -1870,7 +1870,7 @@
             "location": {
                 "name": "Lithuania",
                 "latitude": 55.169438,
-                "longitude": "23.881275"
+                "longitude": 23.881275
             },
             "department": [
                 "customer-support"
@@ -1905,7 +1905,7 @@
             "location": {
                 "name": "Honduras",
                 "latitude": 15.199999,
-                "longitude": "-86.241905"
+                "longitude": -86.241905
             },
             "department": [
                 "customer-support"
@@ -2044,7 +2044,7 @@
             "photo": "/assets/team/rachel_guidery.jpg",
             "location": {
                 "name": "Spain",
-                "latitude": "40.463667",
+                "latitude": 40.463667,
                 "longitude": -3.74922
             },
             "department": [
@@ -2219,7 +2219,7 @@
             "photo": "/assets/team/giannis.png",
             "location": {
                 "name": "Greece",
-                "latitude": "39.074208",
+                "latitude": 39.074208,
                 "longitude": 21.824312
             },
             "department": [
@@ -2289,7 +2289,7 @@
             "photo": "/assets/team/magdalena.jpg",
             "location": {
                 "name": "Netherlands",
-                "latitude": "52.132633",
+                "latitude": 52.132633,
                 "longitude": 5.291266
             },
             "department": [
@@ -2534,7 +2534,7 @@
             "photo": "/assets/team/martynas-1592223330.jpg",
             "location": {
                 "name": "Spain",
-                "latitude": "40.463667",
+                "latitude": 40.463667,
                 "longitude": -3.74922
             },
             "department": [
@@ -2674,7 +2674,7 @@
             "photo": "/assets/team/alexandros.png",
             "location": {
                 "name": "Greece",
-                "latitude": "39.074208",
+                "latitude": 39.074208,
                 "longitude": 21.824312
             },
             "department": [
@@ -2955,7 +2955,7 @@
             "location": {
                 "name": "Argentina",
                 "latitude": -38.416097,
-                "longitude": "-63.616672"
+                "longitude": -63.616672
             },
             "department": [
                 "customer-support"

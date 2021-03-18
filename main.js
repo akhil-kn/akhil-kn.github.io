@@ -1,5 +1,16 @@
 var i = L.map("bbvTreeMap").setView([25, 15], 2.4);
 
+var openPopup = (i, markers, layer) => {
+    var html = `<div class="user-wrapper">`;
+    for (var j = 0; j < markers.length; j++) {
+        var { options } = markers[j]
+        html += `<div class="user-list"><h3>${options.title}</h3><div class="d-flex flex-column"><span class="position">${options.position}</span><span>${options.location.name}</span></div></div>`;
+    }
+    html += `</div>`;
+    $('#exampleModal').find('.modal-body').html(html);
+    $('#exampleModal').modal('toggle')
+}
+
 var initMap = async function () {
     var list = await fetch('./assets/data.json').then(response => response.json());
     var tileLayer = L.tileLayer("https://api.mapbox.com/styles/v1/akhil-kn/ckmc2m2fxhusz17ryzpnx7uo4/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiYWtoaWwta24iLCJhIjoiY2ttYzF0YjlrMW81MDJvbnV6bmp1bzJzcCJ9.d8PsvHAItxrjAS74p1GxAg", {
@@ -15,9 +26,9 @@ var initMap = async function () {
 
 var initLayers = function (list) {
     var t = L.markerClusterGroup({
-        showCoverageOnHover: !1,
-        maxClusterRadius: 40,
-        spiderfyDistanceMultiplier: 2,
+        spiderfyOnMaxZoom: false,
+        showCoverageOnHover: false,
+        zoomToBoundsOnClick: false,
         iconCreateFunction: function (t) {
             var e = t.getAllChildMarkers()
                 , o = e[0].options.icon.options.iconUrl;
@@ -33,37 +44,27 @@ var initLayers = function (list) {
                 iconSize: [45, 45],
                 iconAnchor: [30, 30],
                 popupAnchor: [-10, -30]
-            })
-                , i = '<div><img src="https://picsum.photos/200/300?image_idx=' + index + '" alt="' + e.title + '"><div><h3>' + e.title + '</h3><div class="d-flex flex-column"><span class="position">' + e.position + "</span><span>" + e.location.name + "</span></div></div></div>"
-                , n = {
-                    minWidth: "240",
-                    maxWidth: "500",
-                    className: "custom"
-                }
-                , a = e.location;
+            }), a = e.location;
             if (a) {
                 var r = L.marker([a.latitude, a.longitude], {
-                    icon: o
-                }).bindPopup(i, n);
+                    icon: o,
+                    ...e
+                });
                 t.addLayer(r)
             }
         }
     });
-    t.on("spiderfied", function (t) {
-        console.log('spiderfied');
-        t.cluster.setOpacity(0)
-    });
     t.on("clusterclick", function (t) {
-        console.log('clusterclick');
-        i.panTo(t.latlng)
+        var markers = t.layer.getAllChildMarkers();
+        openPopup(i, markers, t.layer);
     });
     t.on("click", function (e) {
-        console.log('click');
-        var o = t.getVisibleParent(e.layer)
-            , n = o.options.zIndexOffset;
-        n || (i.getZoom() < 6 ? i.setView(e.latlng, 6) : i.panTo(e.latlng))
+        var o = t.getVisibleParent(e.layer);
+        openPopup(i, [o], e.layer);
     });
     i.addLayer(t);
 };
+
+$(function () { });
 
 initMap();
