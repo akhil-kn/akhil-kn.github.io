@@ -4,7 +4,7 @@ var openPopup = (i, markers, layer) => {
     var html = `<div class="user-wrapper">`;
     for (var j = 0; j < markers.length; j++) {
         var { options } = markers[j]
-        html += `<div class="user-list"><h3>${options.title}</h3><div class="d-flex flex-column"><span class="position">${options.position}</span><span>${options.location.name}</span></div></div>`;
+        html += `<div class="user-list d-flex"><div class="avatar"><img src="${options.icon.options.iconUrl}" width="48" heigh="48" class="rounded-circle"></div><div class="d-flex flex-column"><h3>${options.title}</h3><p class="position">${options.position}</p><p>${options.location.name}</p></div></div>`;
     }
     html += `</div>`;
     $('#exampleModal').find('.modal-body').html(html);
