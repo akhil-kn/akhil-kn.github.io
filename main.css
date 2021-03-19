@@ -3,145 +3,143 @@
     position: relative;
 }
 
-#exampleModal {
+#exampleModal,
+#exampleModal1 {
     position: absolute;
     overflow: hidden;
-    width: 75%;
-    height: 75%;
+    width: 70%;
+    height: 85%;
     margin: auto;
 }
 
-#exampleModal .modal-dialog {
+#exampleModal .modal-dialog,
+#exampleModal1 .modal-dialog {
     margin: 0;
     width: 100%;
     height: 100%;
     min-width: 100%;
 }
 
-#exampleModal .modal-content {
+#exampleModal .modal-content,
+#exampleModal1 .modal-content {
     height: 100%;
+    border-radius: 0;
 }
 
-#exampleModal .modal-body {
-    height: calc(100% - 134px);
-    overflow: auto;
+#exampleModal .modal-body,
+#exampleModal1 .modal-body {
+    height: calc(100% - 61px);
+    overflow: hidden;
     padding: 0;
 }
 
+.slick-arrow {
+    position: fixed;
+    top: 50%;
+    right: 4px;
+    transform: translateY(-50%);
+}
+
+.slick-arrow.slick-prev {
+    left: 4px;
+}
+
+.slick-arrow::before{
+   color: grey;
+}
+
+.user-wrapper {
+    top: 50%;
+    transform: translateY(calc(-50% - 15px));
+    opacity: 0;
+}
+
+.slick-initialized {
+    opacity: 1;
+}
 
 .user-wrapper .user-list {
     padding: 1rem;
+    flex-direction: column;
+    max-height: 136px;
+    text-align: center;
 }
 
-.user-wrapper .user-list:not(:first-child) {
-    border-top: 1px solid lightgrey;
-}
-
-.user-wrapper .user-list .avatar>img{
+.user-wrapper .user-list .avatar > img {
     width: 48px;
     height: 48px;
-    margin-right: 14px;
+}
+
+.user-wrapper .user-list .avatar {
+    display: flex;
+    justify-content: center;
+}
+
+
+.user-wrapper .user-list .position {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 #bbv-app h3 {
-    color: #09C269;
+    color: #09c269;
     font-size: 1.125rem;
-    margin-bottom: .5rem;
-    line-height: 100%
+    margin-bottom: 0.5rem;
+    line-height: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
 }
 
 #bbv-app span {
     color: #7f8c8d;
     margin-bottom: 0;
-    font-size: .875rem;
-    line-height: 100%
+    font-size: 0.875rem;
+    line-height: 100%;
 }
 
 #bbv-app h2 a {
-    font-size: 1rem
+    font-size: 1rem;
 }
 
 #bbv-app .bbvMap .leaflet-pane.leaflet-marker-pane img.leaflet-marker-icon {
     -webkit-border-radius: 50px;
-    border-radius: 50px
+    border-radius: 50px;
 }
 
 #bbv-app .bbvMap .leaflet-marker-icon.leaflet-div-icon {
     background: 0 0;
-    border: 0
+    border: 0;
 }
 
-#bbv-app .bbvMap .leaflet-popup.custom .leaflet-popup-content-wrapper {
-    -webkit-border-radius: 3px;
-    border-radius: 3px
-}
-
-#bbv-app .bbvMap .leaflet-popup.custom .leaflet-popup-content {
-    margin: 24px
-}
-
-#bbv-app .bbvMap .leaflet-popup.custom .leaflet-popup-content>div {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
-    display: flex
-}
-
-#bbv-app .bbvMap .leaflet-popup.custom .leaflet-popup-content>div img {
+.header h1,
+.header p,
+p {
     margin-bottom: 0;
-    width: 80px;
-    height: 80px
-}
-
-#bbv-app .bbvMap .leaflet-popup.custom .leaflet-popup-content>div>div {
-    margin-left: 1rem
-}
-
-#bbv-app .bbvMap .leaflet-popup.custom .leaflet-popup-content>div>div span {
-    color: #7f8c8d;
-    margin-bottom: 0;
-    font-size: .875rem;
-    line-height: 100%
-}
-
-#bbv-app .bbvMap .leaflet-popup.custom .leaflet-popup-content>div>div span.position {
-    font-size: .9rem;
-    font-weight: 700;
-    margin-bottom: .5rem
-}
-
-.header h1,.header p,p {
-    margin-bottom: 0
-}
-
-#bbv-app .bbvMap .leaflet-popup.custom .leaflet-popup-close-button {
-    width: 24px;
-    height: 20px;
-    font: 20px/18px Tahoma,Verdana,sans-serif
 }
 
 #bbv-app .bbvMap .custom-cluster {
     position: relative;
-    width: 45px
+    width: 45px;
 }
 
 #bbv-app .bbvMap .custom-cluster img {
     width: 45px;
     height: 45px;
     -webkit-border-radius: 50px;
-    border-radius: 50px
+    border-radius: 50px;
 }
 
 #bbv-app .bbvMap .custom-cluster span {
     position: absolute;
     bottom: 8px;
     right: -6px;
-    background: #09C269;
+    background: #09c269;
     color: #fff;
     padding: 2px 8px;
     -webkit-border-radius: 3px;
     border-radius: 3px;
     font-size: 12px;
-    font-weight: 700
+    font-weight: 700;
 }
-

@@ -1,15 +1,58 @@
 var i = L.map("bbvTreeMap").setView([25, 15], 2.4);
 
-var openPopup = (i, markers, layer) => {
-    var html = `<div class="user-wrapper">`;
+var initSilder = (options) => {
+    setTimeout(() => {
+        $('.user-wrapper').slick(options || {});
+    }, 1000);
+};
+
+var popUpTemplate = (markers, single = false) => {
+    var html = ``;
+    var tempHtml = ``;
     for (var j = 0; j < markers.length; j++) {
         var { options } = markers[j]
-        html += `<div class="user-list d-flex"><div class="avatar"><img src="${options.icon.options.iconUrl}" width="48" heigh="48" class="rounded-circle"></div><div class="d-flex flex-column"><h3>${options.title}</h3><p class="position">${options.position}</p><p>${options.location.name}</p></div></div>`;
+        tempHtml += `<div class="user-list d-flex"><div class="avatar" data-index="${j}"><img src="${options.icon.options.iconUrl}" width="48" heigh="48" class="rounded-circle"></div><div class="d-flex flex-column"><h3>${options.title}</h3><p class="position">${options.position}</p></div></div>`;
+        if (single || (j % 2 == 1) || j + 1 === markers.length) {
+            !!tempHtml && (html += `<div class="user-item">${tempHtml}</div>`);
+            tempHtml = '';
+        }
     }
-    html += `</div>`;
-    $('#exampleModal').find('.modal-body').html(html);
-    $('#exampleModal').modal('toggle')
+    var el = document.createElement('div');
+    el.classList.add('user-wrapper');
+    el.innerHTML = html;
+    return el;
 }
+
+var openPopup = (markers) => {
+    var el = popUpTemplate(markers);
+    $('#exampleModal').find('.modal-body').empty();
+    $('#exampleModal').find('.modal-body').append(el);
+    $('#exampleModal').modal('toggle');
+    initSilder({ dots: true, arrows: true, slidesToShow: 6, slidesToScroll: 6 });
+
+    $('.avatar').on('click', el, function () {
+        $('.user-wrapper').slick('destroy');
+        var el = popUpTemplate(markers,true);
+        $('#exampleModal').find('.modal-body').empty();
+        $('#exampleModal').find('.modal-body').append(el);
+        initSilder({
+            initialSlide: $(this).data('index') || 0,
+            dots: false,
+            arrows: true,
+            slidesToShow: 1,
+            slidesToScroll: 1,
+        });
+    })
+}
+
+var shuffle = (array) => {
+    for (let i = array.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+}
+
 
 var initMap = async function () {
     var list = await fetch('./assets/data.json').then(response => response.json());
@@ -21,10 +64,12 @@ var initMap = async function () {
 
     i.scrollWheelZoom && i.scrollWheelZoom.disable();
     tileLayer.addTo(i)
-    initLayers(list);
+    var data = shuffle(list.data);
+    console.log({ data });
+    initLayers(data);
 };
 
-var initLayers = function (list) {
+var initLayers = function (data) {
     var t = L.markerClusterGroup({
         spiderfyOnMaxZoom: false,
         showCoverageOnHover: false,
@@ -37,7 +82,7 @@ var initLayers = function (list) {
             })
         }
     });
-    list.data.forEach(function (e, index) {
+    data.forEach(function (e, index) {
         if (e.location) {
             var o = L.icon({
                 iconUrl: `https://picsum.photos/200/300?image_idx=${index}`,
@@ -56,11 +101,11 @@ var initLayers = function (list) {
     });
     t.on("clusterclick", function (t) {
         var markers = t.layer.getAllChildMarkers();
-        openPopup(i, markers, t.layer);
+        openPopup(markers);
     });
     t.on("click", function (e) {
         var o = t.getVisibleParent(e.layer);
-        openPopup(i, [o], e.layer);
+        openPopup([o]);
     });
     i.addLayer(t);
 };
